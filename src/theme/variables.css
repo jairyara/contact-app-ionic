@@ -1,2 +1,14 @@
 /* For information on how to create your own theme, please see:
 http://ionicframework.com/docs/theming/ */
+
+:root {
+    --curious-blue: #1d8ad7;
+    --picton-blue: #4da3e0;
+    --turqoise-blue: #6cc3e5;
+    --blizzard-blue: #99e1f0;
+    --tulip-tree: #f1b341;
+    --bg-ui: #f9f9f9;
+    --black-color: #333;
+    --dark-gray: #666;
+    --light-gray: #999;
+}
